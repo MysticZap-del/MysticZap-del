@@ -19,8 +19,7 @@
 💻 Passionate about **Backend & Full Stack Development**  
 🧠 Solved **240+ LeetCode problems**  
 🏆 Hackathon Team Leader  
-🛠 Building real-world projects with **Node, Express, React**  
-🔍 Interested in **System Design & APIs**  
+🛠 Building real-world projects with **Node, Express, React**    
 
 ---
 

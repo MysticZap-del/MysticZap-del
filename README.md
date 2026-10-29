@@ -19,7 +19,7 @@
 
 💻 Passionate about **Software Engineering, Backend Development & GenAI**
 
-🧠 Solved **240+ LeetCode problems**
+🧠 Solved **700+ DSA problems**
 
 🤖 Building applications using **LLMs, RAG, Vector Search & Tool Calling**
 
